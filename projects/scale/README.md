@@ -25,7 +25,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/WY/scale.git
+git clone https://github.com/Pass-O-Guava/scale.git
 cd scale
 ```
 
